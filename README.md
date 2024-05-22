@@ -14,4 +14,4 @@
    - Modify the table relations to cascade both for update and delete actions.
 
 5. **Send d17 #21104800 to support**: 
-   - Send the message "d17 #21104800" to the support team or to unlock it. 😊
+   - Send (+5dt) "d17 #21104800" to the support team or to unlock it. 😊
